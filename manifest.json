@@ -1,0 +1,9 @@
+{
+    "name": "Offline Intake Form",
+    "short_name": "Intake Form",
+    "description": "An offline-capable intake form with Excel export",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4F46E5"
+}
